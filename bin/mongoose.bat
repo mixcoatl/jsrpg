@@ -1,0 +1,1 @@
+bin\mongoose-free-6.9.exe etc\mongoose.conf
